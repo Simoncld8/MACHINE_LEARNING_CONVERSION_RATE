@@ -61,7 +61,7 @@ To utilize and explore this project, follow these steps:
 
 3. **Run the Analysis:**
 
-   You will find all the analysis in the Jupyter Notebook provided (`Conversion_rate_challenge.ipynb`).
+   You will find all the analysis in the Jupyter Notebook provided (`04-Conversion_rate_challenge.ipynb`).
 
 ## Results
 
